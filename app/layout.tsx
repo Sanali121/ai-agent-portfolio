@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "hi ai agents | Sanne van der Wal",
-  description: "AI-readable portfolio for humans and autonomous agents.",
+  title: "Sanshine Design portfolio for AI agents",
+  description: "Sanne van der Wal's portfolio for humans and autonomous agents.",
   icons: {
     icon: "/favicon.ico",
   },
